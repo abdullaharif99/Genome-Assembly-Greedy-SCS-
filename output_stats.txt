@@ -1,0 +1,5 @@
+Number of A's = 4633
+Number of C's = 3789
+Number of G's = 3749
+Number of T's = 3723
+Total length of mystery virus genome = 15894
